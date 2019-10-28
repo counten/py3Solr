@@ -25,7 +25,7 @@ or:
 python setup.py install
 ```
 ## Quick Start
-![test/test.py](test/test.py)
+[test/test.py](test/test.py)
 
 ## TODO
 + global log
