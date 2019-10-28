@@ -17,7 +17,7 @@ __desc__ = "Python3 client for Apache Solr"
 __project__ = "py3Solr"
 __author__ = "wbq813"
 __author_email__ = "wbq813@foxmail.com"
-__version__ = "0.0.9"
+__version__ = "0.1.0"
 
 
 def get_version():

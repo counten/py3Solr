@@ -28,7 +28,7 @@ setup(
     long_description=open("README.md", "r").read(),
     py_modules=["py3Solr"],
     classifiers=[
-        "Development Status :: 5 - Production/Stable",
+        "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
